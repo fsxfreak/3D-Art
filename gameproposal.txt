@@ -2,6 +2,8 @@
 
 Written by: __Leon Cheung__
 
-You are a rocket in the Australian Outback who dearly wishes to go to the moon. 
+You are a rocket named Aero in the Australian Outback who dearly wishes to go to the moon. 
 
-### Game Genre: Rocket in the Outback is an Adventure Sandbox RPG in a alternate-universe setting, where rockets replace humans as the superior machine. The rocket (player) will engage in its own quest, roaming around the Australian Outback
+### Game genre: Rocket in the Outback is an Adventure Sandbox RPG in a alternate-universe setting, where rockets replace humans as the superior machine. The rocket (player) will engage in its own quest, in an RPG style similar to Skyrim, roaming around the Australian Outback to gain experience and knowledge until the climax of the story.
+
+### Game play: The game will be a persistent and ongoing world containing only the player and the AI. Interacts between the player and the AI will serve as milestones in Aero's experience and gain of knowledge, but there will be no elements where Aero is asked to help the AI on the AI's personal quest. The AI will serve as a sort of "wise old man", guiding Aero closer to his eventual objective - going to the moon. Progression will be driven by various 
