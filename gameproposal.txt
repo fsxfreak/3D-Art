@@ -1,0 +1,7 @@
+# Design Document for __Rocket in the Outback__
+
+Written by: __Leon Cheung__
+
+You are a rocket in the Australian Outback who dearly wishes to go to the moon. 
+
+### Game Genre: Rocket in the Outback is an Adventure Sandbox RPG in a alternate-universe setting, where rockets replace humans as the superior machine. The rocket (player) will engage in its own quest, roaming around the Australian Outback
